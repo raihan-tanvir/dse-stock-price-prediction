@@ -1,3 +1,5 @@
 # DSE Stock Price Prediction using Hidden Markov Model
 
- 
+ Stock market forecasting is a classic problem that has been thoroughly investigated using machine learning and artificial neural network based tools and techniques. Interesting aspects of this problem include its time reliance as well as its volatility and other complex relationships. To combine them, hidden markov models (HMMs) have been utilized to anticipate the price of stocks. We demonstrated the Maximum A Posteriori (MAP) HMM method for predicting stock prices for the next day based on previous data. An HMM is trained by analyzing the fractional change in the stock price as well as the intraday high and low values. It is then utilized to produce a MAP estimate across all possible stock prices for the next day. The approach demonstrated in our work is quite generalized and can be used to predict the stock price for any company, given that the HMM is trained on the dataset of that company's stocks dataset. We evaluated the accuracy of our models using some extensively used accuracy metrics for regression problems and came up with a satisfactory outcome.
+
+0
